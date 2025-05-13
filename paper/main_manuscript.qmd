@@ -36,8 +36,17 @@ This quarto doc is for writing the manuscript. This is a test citation [@alba199
 
 # Background
 
+This study explores how the rise of remote work affects regional economic disparities in the United States. Specifically, it investigates how technological infrastructure and education levels interact with remote work trends and shape regional outcomes. The increasing shift toward remote work presents an opportunity to examine whether it reduces or reinforces existing inequalities across geographic areas.
+
 # Data and Methods
+
+This study uses data from the IPUMS USA dataset, covering U.S. Census and ACS microdata from 1970 to 2022. Key variables include employment status, transportation to work, education, income, and regional identifiers. Remote work is inferred from the transportation variable, with "working from home" as one category. Education and income are used to assess socioeconomic status, while geographic codes support regional comparisons. Where relevant, BLS data supplements national trends in remote work.
 
 # Results
 
+Will be completed after analysis. This section will summarize findings on how remote work prevalence, education, and technological access correlate with regional income and employment differences.
+
 # Conclusions
+
+Will be completed after analysis. This section will interpret the results and discuss implications for policy and regional planning in the context of remote work and digital equity.
+
